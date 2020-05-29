@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "i18n-ally.enabledFrameworks": ["transloco"],
+    "i18n-ally.localesPaths": [
+      "assets/groupA/languages",
+      "assets/groupB/languages"
+    ],
+    "i18n-ally.enabledParsers": ["json"]
+  }
+}
